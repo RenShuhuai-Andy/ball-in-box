@@ -1,3 +1,0 @@
-user story:
-
-As a housewife,I want to know how many balls I can put into the box,so that I can store more things.
